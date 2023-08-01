@@ -17,6 +17,8 @@
 		D04F13012A799EAA00B948E8 /* brand.json in Resources */ = {isa = PBXBuildFile; fileRef = D04F12FD2A799EAA00B948E8 /* brand.json */; };
 		D04F130C2A79A10F00B948E8 /* Constant.swift in Sources */ = {isa = PBXBuildFile; fileRef = D04F130B2A79A10F00B948E8 /* Constant.swift */; };
 		D04F130E2A79A1D500B948E8 /* Footer.swift in Sources */ = {isa = PBXBuildFile; fileRef = D04F130D2A79A1D500B948E8 /* Footer.swift */; };
+		D04F13102A79A9E900B948E8 /* Navigation.swift in Sources */ = {isa = PBXBuildFile; fileRef = D04F130F2A79A9E900B948E8 /* Navigation.swift */; };
+		D04F13122A79ABA800B948E8 /* LogoView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D04F13112A79ABA800B948E8 /* LogoView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -32,6 +34,8 @@
 		D04F13032A799F4800B948E8 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist; path = Info.plist; sourceTree = "<group>"; };
 		D04F130B2A79A10F00B948E8 /* Constant.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Constant.swift; sourceTree = "<group>"; };
 		D04F130D2A79A1D500B948E8 /* Footer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Footer.swift; sourceTree = "<group>"; };
+		D04F130F2A79A9E900B948E8 /* Navigation.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Navigation.swift; sourceTree = "<group>"; };
+		D04F13112A79ABA800B948E8 /* LogoView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LogoView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -118,6 +122,8 @@
 			isa = PBXGroup;
 			children = (
 				D04F130D2A79A1D500B948E8 /* Footer.swift */,
+				D04F130F2A79A9E900B948E8 /* Navigation.swift */,
+				D04F13112A79ABA800B948E8 /* LogoView.swift */,
 			);
 			path = Home;
 			sourceTree = "<group>";
@@ -226,7 +232,9 @@
 			buildActionMask = 2147483647;
 			files = (
 				D04F12EF2A799C6500B948E8 /* ContentView.swift in Sources */,
+				D04F13122A79ABA800B948E8 /* LogoView.swift in Sources */,
 				D04F12ED2A799C6500B948E8 /* ecommerceshopApp.swift in Sources */,
+				D04F13102A79A9E900B948E8 /* Navigation.swift in Sources */,
 				D04F130E2A79A1D500B948E8 /* Footer.swift in Sources */,
 				D04F130C2A79A10F00B948E8 /* Constant.swift in Sources */,
 			);
